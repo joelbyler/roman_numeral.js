@@ -1,5 +1,5 @@
 require('should');
-var RomanNumeral = require(__dirname + '/../RomanNumeral');
+var RomanNumeral = require(__dirname + '/../lib/roman_numeral');
 
 describe('RomanNumeral', function() {
   context('converts', function() {
